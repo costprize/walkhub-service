@@ -1,0 +1,6 @@
+{
+	"db": "walkhub",
+	"secret": "5026deb4387d3b1edaa0328f11948a21",
+	"cookiesecret": "e69248abff8baec49cdf1ccf56ee174f",
+	"baseurl": "http://localhost:8081/"
+}
